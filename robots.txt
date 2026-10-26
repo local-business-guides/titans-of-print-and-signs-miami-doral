@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/titans-of-print-and-signs-miami-doral/sitemap.xml
+Sitemap: https://local-business-guides.github.io/titans-of-print-and-signs-miami-doral/news-sitemap.xml

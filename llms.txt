@@ -32,6 +32,9 @@
 - [Graphic designer Doral for signs and print](https://local-business-guides.github.io/titans-of-print-and-signs-miami-doral/graphic-designer-doral/): Graphic designer Doral services to prepare clear, production-ready materials for your business.
 - [Marketing consultant Doral for print and displays](https://local-business-guides.github.io/titans-of-print-and-signs-miami-doral/marketing-consultant-doral/): Marketing consultant Doral guidance to connect business goals with signs, print, and event materials.
 
+## Newsroom
+- [Titans of Print and Signs Miami Releases Guide to Choosing a Miami Sign Company](https://local-business-guides.github.io/titans-of-print-and-signs-miami-doral/news/2026-10-26-titans-of-print-and-signs-miami-releases-guide-to-/): Titans of Print and Signs Miami published a guide, YouTube video and podcast episode about choosing a sign company in Miami. (2026-10-26)
+
 ## Pages
 - [Sign Company In Miami in Doral, Florida](https://local-business-guides.github.io/titans-of-print-and-signs-miami-doral/): Bring your business signs and printed materials together with a local team serving Doral. Call +1305-395-7379.
 - [About Titans of Print and Signs Miami](https://local-business-guides.github.io/titans-of-print-and-signs-miami-doral/about/): About Titans of Print and Signs Miami, Doral.
@@ -39,4 +42,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/titans-of-print-and-signs-miami-doral/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/titans-of-print-and-signs-miami-doral/news/rss.xml)
 - [Main resource site](https://titans-print-signs-doral.warmape5.chatgpt.site)
